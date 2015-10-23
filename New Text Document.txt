@@ -1,7 +1,0 @@
-I can explain what I mean by the last point with an example: suppose your assignment is to implement a data
-export facility in three days. You’d probably figure on providing a basic filtering capability to select the data, a simple
-way of previewing the output, and maybe a choice of comma-separated-value (CSV) or tab-delimited output formats.
-Now suppose you have two months to do the export module. You’d expect to develop a much more elaborate query
-facility, a much wider choice of outputs, probably including XML (Extensible Markup Language), SQL (Structured
-Query Language), and maybe even RTF (Rich Text Format), and a way to store the export specification as a preset for
-later recall.
